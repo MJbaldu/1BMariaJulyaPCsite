@@ -1,3 +1,3 @@
 # 1BMariaJulyaPCsite
-## palavrasMuitoInteressantes
-### essasAquiSãoMaisAinda
+## Palavras Muito Interessantes
+### Essas Aqui São Mais Ainda
